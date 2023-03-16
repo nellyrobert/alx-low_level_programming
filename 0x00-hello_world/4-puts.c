@@ -1,6 +1,6 @@
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle"); //writing the string to stdout
+	puts("Programming is like building a multilingual puzzle");
     
 	return 0;
 }
